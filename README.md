@@ -1,5 +1,5 @@
 # epa-echo-atf
-Environmental Compliance Records for Firearms Manufacturers
+Environmental Compliance Records for Firearms Manufacturers: 
 Steps to reproduce
 
 1) Use firearms manufacturing aggregate dataset, and calculate manufacturing totals for 2000-2019
